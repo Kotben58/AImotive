@@ -1,0 +1,29 @@
+﻿Build started 2021. 06. 25. 4:33:58.
+     1>Project "D:\Microsoft_Visual_Studio_Saves\UDP_Client\UDP_Client\UDP_Client.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"D:\Program Files (x86)\gl3w-master\include" /I"D:\Microsoft_Visual_Studio_Saves\imgui-master\imgui-master" /I"D:\Microsoft_Visual_Studio_Saves\imgui-master\imgui-master\backends" /I"D:\Microsoft_Visual_Studio_Saves\imgui-master\imgui-master\examples\libs\gl3w" /I"D:\Program Files (x86)\glfw-3.3.4\glfw-3.3.4\include" /I"D:\Program Files (x86)\glfw-3.3.4\glfw-3.3.4\include\GLFW" /ID:\Microsoft_Visual_Studio_Saves\UDP_Client\UDP_Client\imgui /I"D:\Program Files (x86)\implot-master\implot-master" /I"D:\Microsoft_Visual_Studio_Saves\imgui-master\imgui-master\examples\libs\glfw\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Control.cpp Network.cpp
+         Network.cpp
+         Control.cpp
+         Generating Code...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Microsoft_Visual_Studio_Saves\UDP_Client\Debug\UDP_Client.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Program Files (x86)\glfw-3.3.4\glfw-3.3.4\lib" /LIBPATH:"D:\Microsoft_Visual_Studio_Saves\imgui-master\imgui-master\examples\libs\gl3w\GL" /LIBPATH:"D:\Microsoft_Visual_Studio_Saves\imgui-master\imgui-master\examples\libs\glfw\lib-vc2010-64" glfw3.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Microsoft_Visual_Studio_Saves\UDP_Client\Debug\UDP_Client.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Microsoft_Visual_Studio_Saves\UDP_Client\Debug\UDP_Client.lib" /MACHINE:X86 Debug\gl3w.obj
+         Debug\implot.obj
+         Debug\implot_demo.obj
+         Debug\implot_items.obj
+         Debug\imgui_impl_glfw.obj
+         Debug\imgui_impl_opengl3.obj
+         Debug\imgui.obj
+         Debug\imgui_demo.obj
+         Debug\imgui_draw.obj
+         Debug\imgui_tables.obj
+         Debug\imgui_widgets.obj
+         Debug\Control.obj
+         Debug\GUI.obj
+         Debug\main.obj
+         Debug\Network.obj
+         UDP_Client.vcxproj -> D:\Microsoft_Visual_Studio_Saves\UDP_Client\Debug\UDP_Client.exe
+     1>Done Building Project "D:\Microsoft_Visual_Studio_Saves\UDP_Client\UDP_Client\UDP_Client.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.11
